@@ -1,7 +1,7 @@
 [
     {
         "title": "Sample Song 232323232",
-        "url":"mp3/sample1.mp3",
+        "url":"https://melwinvincent.github.io/az-jsonapi/bell-sm.png",
         "artist": "artist 1",
         "img": "img/ionic.png",
         "isMusic" : true
